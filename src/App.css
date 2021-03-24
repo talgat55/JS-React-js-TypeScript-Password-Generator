@@ -12,3 +12,12 @@
     display: flex;
     justify-content: center;
 }
+.block__center{
+    margin: 9px auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.block__center .label{
+    line-height: 23px!important;
+}
